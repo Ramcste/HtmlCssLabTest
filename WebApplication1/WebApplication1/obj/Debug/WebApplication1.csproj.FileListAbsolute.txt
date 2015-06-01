@@ -1,0 +1,6 @@
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

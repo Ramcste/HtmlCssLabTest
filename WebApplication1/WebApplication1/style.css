@@ -1,0 +1,188 @@
+﻿body {
+    background: gray;
+}
+body h1 {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;   
+    font-family:'Open Sans Condensed' ,sans-serif;
+    
+
+
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+   
+}
+
+header {
+    width:960px;
+    float: left;
+    height: 200px;
+    text-align: center;
+}
+
+
+header .nameinfo {
+     width: 750px;
+     float: left;
+     height: 150px;
+     padding-bottom: 10px;
+     
+}
+header .nameinfo h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family:'Open Sans Condensed' ,sans-serif;
+     
+}
+ header .nameinfo p {
+    text-align: center;
+    font-size: 25px;
+    font-family:'Open Sans Condensed' ,sans-serif;
+     
+    
+}
+ header .nameinfo p a {
+     text-align: center;
+     font-size: 25px;
+     padding-bottom: 30px;
+     font-family:'Open Sans Condensed' ,sans-serif;
+    
+ }
+header .proimage img{
+    
+    width:170px;
+    float: left;
+    padding-right: 30px;
+    height: 150px;
+}
+
+.container {
+    width: 960px;
+    float: left;
+}
+
+
+
+.personalstatement section article h1 {
+  
+    text-align: left;
+    font-size: 30px;
+    padding-bottom: 10px;
+    text-decoration:underline;
+    font-family:'Open Sans Condensed' ,sans-serif;
+
+}
+    .personalstatement section article p {
+        text-align: left;
+        font-size: 20px;
+        padding-bottom: 20px;
+        font-family:'Open Sans Condensed' ,sans-serif;
+    }
+
+.educationandqualifications {
+    width: 958px;
+    float: left;
+     
+    
+}
+
+.educationandqualifications section {
+    
+}
+
+
+
+.educationandqualifications section article  {
+ 
+    font-family:'Open Sans Condensed' ,sans-serif;
+   
+}
+
+
+.educationandqualifications section article h1 {
+    text-align: left;
+    font-size: 30px;
+     text-decoration:underline;
+
+}
+    .educationandqualifications section article ul {
+            
+       
+    }
+.educationandqualifications section article ul li {
+       text-align: left;
+      font-size: 20px;
+      padding-bottom: 20px;
+    
+}
+
+.techincalskills section article {
+}
+
+.techincalskills section article h1 {
+     text-align: left;
+     font-size: 30px;
+     text-decoration:underline;
+     font-family:'Open Sans Condensed' ,sans-serif;
+
+}
+
+.techincalskills section article ul li {
+     text-align: left;
+      font-size: 20px;
+      padding-bottom: 20px;
+    font-family:'Open Sans Condensed' ,sans-serif;
+}
+
+.independentprojects section article {
+    
+}
+.independentprojects section article h1 {
+    text-align: left;
+    font-size: 30px;
+     text-decoration:underline;
+     font-family:'Open Sans Condensed' ,sans-serif;
+
+}
+.independentprojects section article  ol li {
+      text-align: left;
+      font-size: 20px;
+      padding-bottom: 20px;
+      font-family:'Open Sans Condensed' ,sans-serif;
+    
+}
+
+.references section article {
+   
+
+}
+
+.references section article h1 {
+    text-align: left;
+    font-size: 30px;
+     text-decoration:underline;
+     font-family:'Open Sans Condensed' ,sans-serif;
+}
+
+.references section article ul li {
+    text-align: left;
+    font-size: 20px;
+  
+    font-family:'Open Sans Condensed' ,sans-serif;
+    
+}
+
+footer {
+    width: 960px;
+   
+    
+    clear: both;
+    text-align: center;
+    padding: 20px 0;
+}
