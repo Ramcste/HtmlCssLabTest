@@ -4,3 +4,9 @@ E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplicatio
 E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 E:\Lab Practice\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\RAM\Desktop\Ramesh\HtmlCssLabTest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
